@@ -1,0 +1,7 @@
+numero1 = int(input("Digite un numero: "))
+numero2 = int(input("Digite un numero: "))
+print("La suma ingresado es: ", (numero1+numero2))
+print("La suma ingresado es: ", (numero1+numero2))
+print("La resta ingresado es: ", (numero1-numero2))
+print("La multplicacion ingresado es: ", (numero1*numero2))
+print("La divicion ingresado es: ", (numero1/numero2))

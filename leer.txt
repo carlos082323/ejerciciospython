@@ -1,0 +1,1 @@
+esta carpeta contienen contenido de lenguaje de programacion python
